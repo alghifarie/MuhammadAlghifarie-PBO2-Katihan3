@@ -15,7 +15,7 @@ import java.io.IOException;
 
 /**
  *
- * @author ssiti
+ * @author User
  */
 public class PengelolaanKontakFrame extends javax.swing.JFrame {
     private final DataBaseHelper dbHelper;
